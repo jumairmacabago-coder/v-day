@@ -15,7 +15,7 @@ const noMessages = [
     "Ayaw malouy ka pls... 🥺",
     "If you say no, ma sad jud ko promise 🥺",
     "I will be very sad... 😢",
-    "Please??? 💔",
+    "Please??? 💔 you can't catch me anyway FRIEND 😜",
     "Don't do this to me.. 🥺",
     "Last chance!😭",
     "You can't catch me anyway FRIEND 😜"
